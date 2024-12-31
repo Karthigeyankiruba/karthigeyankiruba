@@ -1,5 +1,3 @@
-Welcome to my Portfolio!
-
 I'm Karthigeyan, Working MERN Stack web development with full of enthusiasm
 
 - 💬 Ask me about self-help books self motivation fitness and coding
@@ -26,4 +24,3 @@ I'm Karthigeyan, Working MERN Stack web development with full of enthusiasm
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" />
         <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
 </p>
-
