@@ -4,10 +4,9 @@
   </a>
 </h1>
 
-
 Welcome to my Portfolio!
 
-I'm Karthigeyan, Learning MERN Stack web development with full of enthusiasm <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Tamil Nadu.</b> 
+I'm Karthigeyan, Working MERN Stack web development with full of enthusiasm
 
 - 💬 Ask me about self-help books self motivation fitness and coding
 
@@ -15,11 +14,9 @@ I'm Karthigeyan, Learning MERN Stack web development with full of enthusiasm <im
 
 - ⚡ Fun facts: You know you're a programmer when you spend a day to find the problem and then fix it with one line of code.
   
--    ...Be cool Accept everything as it is in life chill in it!!!
+- ...Be cool Accept everything as it is in life chill in it!!!
   
-
 ## ⚡ Things I code with
-
 <p>
   <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
