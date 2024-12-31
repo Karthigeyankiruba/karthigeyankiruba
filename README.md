@@ -9,14 +9,6 @@ Welcome to my Portfolio!
 
 I'm Karthigeyan, Learning MERN Stack web development with full of enthusiasm <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Tamil Nadu.</b> 
 
-
- 
-- 🌱 I’m currently working on MERN Stack projects
-  
-- 👯 I’m looking to get a job as Full Stack Web Developer
-
-- 🤔 I’m looking for help with learning new Technologies
-
 - 💬 Ask me about self-help books self motivation fitness and coding
 
 - 📫 How to reach me: karthigeyan0901@gmail.com
@@ -25,10 +17,6 @@ I'm Karthigeyan, Learning MERN Stack web development with full of enthusiasm <im
   
 -    ...Be cool Accept everything as it is in life chill in it!!!
   
-
-
-
-
 
 ## ⚡ Things I code with
 
@@ -51,19 +39,6 @@ I'm Karthigeyan, Learning MERN Stack web development with full of enthusiasm <im
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
         <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
           <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-0F1E25?style=flat-square&logo=netlify&logoColor=white" />
-  
-
-  <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
-</div>
 </p>
  
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
-## 😄 Cool Streak Stats
- 
-![Karthigeyankiruba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthigeyankiruba&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karthigeyankiruba&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthigeyankiruba&layout=compact&theme=radical&langs_count=6)
