@@ -20,7 +20,6 @@ I'm Karthigeyan, Working MERN Stack web development with full of enthusiasm
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)" />
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" />
         <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
 </p>
