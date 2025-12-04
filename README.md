@@ -1,13 +1,3 @@
-I'm Karthigeyan, Working MERN Stack web development with full of enthusiasm
-
-- 💬 Ask me about self-help books self motivation fitness and coding
-
-- 📫 How to reach me: karthigeyan0901@gmail.com
-
-- ⚡ Fun facts: You know you're a programmer when you spend a day to find the problem and then fix it with one line of code.
-  
-- ...Be cool Accept everything as it is in life chill in it!!!
-  
 ## ⚡ Things I code with
 <p>
   <p align="left">
